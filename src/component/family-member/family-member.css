@@ -1,0 +1,15 @@
+.family-member {
+  display: flex;
+  height: 50px;
+  width: 200px;
+  align-items: center;
+  justify-content: center;
+}
+
+.male-family-member {
+  background: lightblue;
+}
+
+.female-family-member {
+  background: lightpink;
+}
